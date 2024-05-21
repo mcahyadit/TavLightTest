@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\vc14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\vc14\\vcpkg-configuration.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vcpkg-configuration.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\vc14\\vcpkg.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vcpkg.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\.vs\\otclient\\v17\\DocumentLayout.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentLayout.json",
+              "DocumentMoniker": "D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\.vs\\otclient\\v17\\DocumentLayout.json",
+              "RelativeDocumentMoniker": "..\\.vs\\otclient\\v17\\DocumentLayout.json",
+              "ToolTip": "D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\.vs\\otclient\\v17\\DocumentLayout.json",
+              "RelativeToolTip": "..\\.vs\\otclient\\v17\\DocumentLayout.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T13:02:50.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vcpkg.json",
+              "DocumentMoniker": "D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\vc14\\vcpkg.json",
+              "RelativeDocumentMoniker": "vcpkg.json",
+              "ToolTip": "D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\vc14\\vcpkg.json",
+              "RelativeToolTip": "vcpkg.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T13:02:34.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vcpkg-configuration.json",
+              "DocumentMoniker": "D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\vc14\\vcpkg-configuration.json",
+              "RelativeDocumentMoniker": "vcpkg-configuration.json",
+              "ToolTip": "D:\\Paper\\JobApp\\TavernLight\\TavLightTest\\otclient\\vc14\\vcpkg-configuration.json",
+              "RelativeToolTip": "vcpkg-configuration.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T13:02:28.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

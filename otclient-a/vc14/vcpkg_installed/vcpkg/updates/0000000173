@@ -1,0 +1,9 @@
+Package: luajit
+Version: 2023-01-04
+Port-Version: 5
+Depends: vcpkg-cmake, vcpkg-cmake-config, vcpkg-cmake-get-vars
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 7697b5accac30748da3bc80e6d8261a9eeee859ef83e1864c66e18c4be9a899d
+Description: LuaJIT is a Just-In-Time (JIT) compiler for the Lua programming language.
+Status: install ok installed

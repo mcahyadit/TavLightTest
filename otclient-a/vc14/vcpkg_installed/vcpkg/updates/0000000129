@@ -1,0 +1,8 @@
+Package: boost-dynamic-bitset
+Version: 1.83.0
+Depends: boost-assert, boost-config, boost-container-hash, boost-core, boost-integer, boost-move, boost-static-assert, boost-throw-exception, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: b6c8360d88570ecb09b64358f56dcd4ba1734e5b82a58009c4cdded12c9da08e
+Description: Boost dynamic_bitset module
+Status: install ok installed

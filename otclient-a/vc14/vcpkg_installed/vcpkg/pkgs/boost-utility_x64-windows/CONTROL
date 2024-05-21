@@ -1,0 +1,7 @@
+Package: boost-utility
+Version: 1.83.0
+Depends: boost-assert, boost-config, boost-core, boost-io, boost-preprocessor, boost-throw-exception, boost-type-traits, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 737d12203651eb78f13d3b36618072fc1f7c34a436ec94c92e4062fe8221eb1b
+Description: Boost utility module

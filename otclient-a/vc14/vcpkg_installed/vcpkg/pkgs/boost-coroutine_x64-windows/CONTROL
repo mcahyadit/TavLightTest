@@ -1,0 +1,7 @@
+Package: boost-coroutine
+Version: 1.83.0
+Depends: boost-assert, boost-build, boost-config, boost-context, boost-core, boost-exception, boost-modular-build-helper, boost-move, boost-system, boost-throw-exception, boost-type-traits, boost-utility, boost-vcpkg-helpers, vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 929abe31a4a9d4534d293727ae3e44af02d30c71c24d5723c9604e81bed660b1
+Description: Boost coroutine module

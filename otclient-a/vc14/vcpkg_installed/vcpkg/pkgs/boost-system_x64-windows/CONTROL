@@ -1,0 +1,7 @@
+Package: boost-system
+Version: 1.83.0
+Depends: boost-assert, boost-build, boost-config, boost-modular-build-helper, boost-throw-exception, boost-variant2, boost-vcpkg-helpers, boost-winapi, vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 51991b9114f66538c018bf33573fb65de078d55cff00434f5aeaf0a2a0352dde
+Description: Boost system module

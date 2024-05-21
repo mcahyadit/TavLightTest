@@ -1,0 +1,7 @@
+Package: boost-container-hash
+Version: 1.83.0
+Depends: boost-config, boost-describe, boost-mp11, boost-type-traits, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 2acf32cfc5bc13efbb10e5f007c6a05c03fa8c2ac0ff76bcadd149894d275409
+Description: Boost container_hash module

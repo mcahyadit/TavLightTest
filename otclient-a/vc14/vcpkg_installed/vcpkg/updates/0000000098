@@ -1,0 +1,8 @@
+Package: boost-date-time
+Version: 1.83.0
+Depends: boost-algorithm, boost-assert, boost-build, boost-config, boost-core, boost-io, boost-lexical-cast, boost-modular-build-helper, boost-numeric-conversion, boost-range, boost-smart-ptr, boost-static-assert, boost-throw-exception, boost-tokenizer, boost-type-traits, boost-utility, boost-vcpkg-helpers, boost-winapi, vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 588fe7a8b61c9451b9799d433e360940cadab25654efce18228e59e26468a3b4
+Description: Boost date_time module
+Status: install ok half-installed

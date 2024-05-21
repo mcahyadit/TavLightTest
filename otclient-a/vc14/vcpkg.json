@@ -1,0 +1,19 @@
+{
+  "dependencies": [
+    "boost-iostreams",
+    "boost-asio",
+    "boost-system",
+    "boost-variant",
+    "boost-lockfree",
+    "luajit",
+    "glew",
+    "boost-filesystem",
+    "boost-uuid",
+    "boost-thread",
+    "physfs",
+    "openal-soft",
+    "libogg",
+    "libvorbis",
+    "zlib",
+    "opengl" ]
+}
