@@ -1,0 +1,14 @@
+Module
+  name: q7
+  description: Q7 Twset
+  author: Otland for the Win
+  website: -
+  version: 1
+
+  autoload: true
+  autoload-priority: 1000
+  sandboxed: true
+  dependencies: [ game_interface ]
+  scripts: [ q7 ]
+  @onLoad: init()
+  @onUnload: terminate()

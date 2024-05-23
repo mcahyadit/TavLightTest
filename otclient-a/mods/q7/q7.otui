@@ -1,0 +1,34 @@
+MainWindow
+  id: q7Main
+  !text: tr('Q7')
+  size: 400 400
+  @onEscape: modules.q7.closing()
+
+  TabBar
+    id: allTabs
+    anchors.top: parent.top
+    anchors.right: parent.right
+    anchors.bottom: parent.bottom
+    anchors.left: parent.left
+
+  Panel
+    id: optionsTabContent
+    anchors.top: allTabs.top
+    anchors.left: allTabs.left
+    anchors.right: allTabs.right
+    anchors.bottom: allTabs.bottom
+    margin-top: 20
+    margin-bottom: 20
+
+  Button
+    id: tanaba
+    !text: tr('Tanaba')
+    width: 80
+
+  Button
+    id: closeButton
+    !text: tr('Close')
+    width: 200
+    anchors.left: parent.left
+    anchors.bottom: parent.bottom
+    @onClick: modules.q7.closing()
