@@ -188,7 +188,7 @@ config.lua
 /otclient/otclient.log
 /otclient/modules/otclientrc.lua
 /otclient/src/framework/graphics/dx/
-/otclient/vc14/vcpkg_installed
+/otclient/vc14/.vs
 
 *.o
 *.gch
@@ -206,7 +206,6 @@ LOCALTODO
 tags
 
 # user-specific files
-/otclient/*.xml
 *.otb
 *.otbm
 *.spr
